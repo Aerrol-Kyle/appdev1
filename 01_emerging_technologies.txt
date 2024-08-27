@@ -1,6 +1,5 @@
 Five emerging technologies that are impacting both education sector and IT industry
 
-
 1. Biometric Technology
 
 Purpose: Biometric technology uses unique biological traits (like fingerprints, facial recognition, and voice patterns) for identification and security.
