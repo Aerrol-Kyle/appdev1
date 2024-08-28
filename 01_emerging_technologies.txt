@@ -1,16 +1,15 @@
 Five emerging technologies that are impacting both education sector and IT industry
 
-
 1. Biometric Technology
 
-Purpose: Biometric technology uses unique biological traits (like fingerprints, facial recognition, and voice patterns) for identification and security.
+Purpose: Biometric technology uses unique biological traits (like fingerprints, facial recognition, and voice patterns) for identification and security. Some of it purposes are for security, provide convinience, and avoid fraud identity.
 
 Usage:
- Education: Biometric systems are used for secure access to facilities, attendance tracking, and exam monitoring in schools and universities.
- IT Industry: IT companies deploy biometric solutions for secure authentication, enhancing security in workplaces and financial transactions.
+ Education: They are used for secure access to facilities, attendance tracking, exam monitoring, and even for student registration in schools and universities.
+ IT: IT companies deploy biometric solutions for secure authentication, enhancing security in workplaces and financial transactions.
 
 Examples:
- Education: Some universities use facial recognition for automated attendance and access control in dormitories.
+ Education: Some universities use facial recognition for automated attendance and access control in dormitories. (For e.g. Nanjing university in China).
  IT: Apple’s Face ID and Microsoft’s Windows Hello use biometric authentication to provide secure, password-free access to devices.
 
 2. Edge Computing
@@ -18,12 +17,12 @@ Examples:
 Purpose: Edge computing brings data processing closer to the source of data generation, reducing latency and bandwidth usage. The aim is to enable faster and more efficient data handling in real-time applications.
 
 Usage:
- Education: Edge computing is integrated into IoT labs and courses to teach students how to deploy, manage, and optimize distributed systems. Educational institutions may use edge solutions to support smart campus initiatives.
- IT: Improving application performance in manufacturing, healthcare, telecommunications, and other fields will rely heavily on edge computing. IT organizations adopt edge computing solutions to enhance system response times and facilitate decentralized data processes.
+ Education: It is integrated into IoT labs and courses to teach students how to deploy, manage, and optimize distributed systems. Educational institutions may use edge solutions to support smart campus initiatives.
+ IT: Google Cloud IoT Edge brings Google Cloud’s AI and machine learning capabilities to edge devices, allowing for real-time data processing and analytics at the edge.
 
 Examples:
- Education: Smart classrooms using edge devices to manage real-time data for adaptive learning tools.
- IT: Edge AI systems that provide analytics for IoT devices in smart factories.
+ Education: Smart classrooms using edge devices to manage real-time data for adaptive learning tools. Can also be used in real-time collaboration.
+ IT:  In a smart city initiative, Google Cloud IoT Edge is used to analyze data from street cameras and sensors in real-time to monitor traffic flow, detect anomalies, and improve urban planning.
 
  3. Internet of Things (IoT)
 
@@ -39,7 +38,7 @@ Examples:
 
 4. Artificial Intelligence (AI)
 
-Purpose: AI seeks to automate tasks, provide decision-making support, and improve system intelligence by analyzing vast amounts of data and learning from patterns.
+Purpose: AI seeks to automate tasks, provide decision-making support, and improve system intelligence by analyzing vast amounts of data and learning from patterns. In short, it is making our lives easier.
 
 Usage:
  Education: AI is transforming education by providing personalized learning experiences through adaptive learning systems, automating administrative tasks, and enabling research in AI-related fields. As mentioned above, it aims to ease an individual's daily work.
@@ -47,7 +46,7 @@ Usage:
 
 Examples:
  Education:  AI-based tutoring systems that adjust content difficulty based on student performance. They can also use the AI to expand their horizons and hone their skills.
- IT: Chatbots and AI-driven customer support systems used by IT companies to assist the users.
+ IT: Chatbots and AI-driven customer support systems used by IT companies to assist the users. Microsoft's Co-Pilot is an example of AI too.
 
 5. Cloud Computing
 
