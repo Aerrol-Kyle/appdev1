@@ -1,24 +1,17 @@
-import './App.css'
-import AdminPanel from './AdminPanel';
-import LoginForm from './LoginForm';
+const products = [
+  {title:'Cabbage', id: 1},
+  {title: 'Garlic', id: 2},
+  {title: 'Apple', id: 3},
+];
 
-function App() {
-
-  let content;
-  let isLoggedIn = true;
-
-if (isLoggedIn) {
-  content = <AdminPanel />;
-} else {
-  content = <LoginForm />;
+export default function ShoppingList() {
+  const listItems = products.map(product =>
+    <li key={product.id}>
+      {product.title}
+    </li>
+  );
+  
+  return (
+    <ul>{listItems}</ul>
+  );
 }
-
-  return(
-    <>
-     <h1>Welcome to my App!</h1>
-     {content}
-    </>
-  )
-}
-
-export default App
